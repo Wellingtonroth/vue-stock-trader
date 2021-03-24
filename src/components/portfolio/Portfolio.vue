@@ -1,5 +1,5 @@
 <template>
-  <h1>Açao (Portifolio)</h1>
+  <h1>Portfolio</h1>
 </template>
 
 <script>
